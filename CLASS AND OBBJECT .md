@@ -1,4 +1,4 @@
-Sure 😊 Let’s explain **Class** and **Object** in Java in a very simple and clear way —
+Sure  Let’s explain **Class** and **Object** in Java in a very simple and clear way —
 
 ---
 
