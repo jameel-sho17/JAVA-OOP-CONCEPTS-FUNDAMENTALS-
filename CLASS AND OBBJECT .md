@@ -2,7 +2,7 @@ Sure  Let’s explain **Class** and **Object** in Java in a very simple and clea
 
 ---
 
-### 🧱 **1. What is a Class?**
+### 🧱 ***1. What is a Class?**
 
 A **class** is like a **blueprint**, **plan**, or **template** that defines how something should look or behave.
 
